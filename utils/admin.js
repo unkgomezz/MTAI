@@ -1,7 +1,5 @@
 // Lista de administradores (IDs Discord)
 const ADMINS = [
-    '677207626144153612', // Substitua pelo seu ID
-    '494508666049921036'
   ];
   
   // Configurações do sistema admin
